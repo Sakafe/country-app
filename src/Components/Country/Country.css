@@ -1,0 +1,23 @@
+.country-container{
+   margin: 10px;
+   padding: 10px;
+   display: flex;
+   border-radius: 10px;
+   box-shadow: 1px 1px 1px 20px rgba(51, 51, 51, 0.089);
+}
+h2{
+  color: brown;
+}
+.image img{
+    width: 200px;
+    height:150px;
+}
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.country-details{
+    margin: 15px;
+    padding: 15px;
+}
